@@ -27,7 +27,7 @@ http://api.openweathermap.org/data/2.5/weather?q=Kyiv&appid=API_KEY&units=metric
 У цьому завданні реалізовано просту Python-програму, яка надсилає запит до API OpenWeatherMap, отримує відповідь і виводить базову інформацію про погоду.
 
 Код знаходиться у файлі `get_weather.py`.
-
+(У коді API-ключ не вказано з міркувань безпеки. Його можна отримати безкоштовно на https://home.openweathermap.org/api_keys)
 ---
 
 ## Висновок
